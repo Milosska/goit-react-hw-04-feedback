@@ -1,5 +1,4 @@
 import PropTypes from 'prop-types';
-import { Fragment } from 'react';
 import { Button } from './FeedbackOptions.styled';
 
 export const FeedbackOptions = ({ options, onLeaveFeedback }) => {
