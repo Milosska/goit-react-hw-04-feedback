@@ -5,6 +5,7 @@ import { Statistics } from './Statistics/Statistics';
 import { Notification } from './Notification/Notification';
 import { GlobalStyles } from './GlobalStyles';
 
+// Create hooks
 export class App extends Component {
   state = {
     good: 0,
